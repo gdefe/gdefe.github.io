@@ -35,6 +35,7 @@
     <meta name="msapplication-TileImage" content="{{ 'assets/favicon/ms-icon-144x144.png' | absolute_url }}">
     <meta name="theme-color" content="#d6392e">
     <!-- Styles -->
+    <!--
 	{% if page.title == "CV" %}
 	  <link rel="stylesheet" href="{{ site.baseurl }}/assets/styles/vendors/bootstrap.min.css">
 	  <link rel="stylesheet" href="{{ site.baseurl }}/assets/styles/vendors/font-awesome/css/all.css">
@@ -54,4 +55,13 @@
         darkTheme.disabled = currentTheme === "dark";
       </script>
     {% endif %}
+    -->
+    {% if page.title == "CV" %}
+        <link rel="stylesheet" href="{{ site.baseurl }}/assets/styles/vendors/bootstrap.min.css">
+        <link rel="stylesheet" href="{{ site.baseurl }}/assets/styles/vendors/font-awesome/css/all.css">
+        <link id="theme-style" rel="stylesheet" href="{{ site.baseurl }}/assets/styles/cv.css">
+    {% else %}
+        <link rel="stylesheet" type="text/css" href="{{ 'assets/styles/style.css' | absolute_url }}" />
+    {% endif %}
+
 </head>
