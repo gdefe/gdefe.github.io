@@ -89,6 +89,9 @@ html.is-scroll-disabled body {
 /* -----------------------------------------------------------------
     - Icons
 ----------------------------------------------------------------- */
+.service-icon-box { margin-bottom: 10px; }
+
+.service-icon-box img { margin: auto; }
 
 .title-icon {
     color: var(--primary-color);
