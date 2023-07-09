@@ -23,8 +23,8 @@
     --text-color-light: #64717e;
     --text-color-on-primary: var(--white);
     --background-color: #d2d2d2;
-    --box-background-color: #615a79;
-    --tab-background-color: #302C40;
+    --box-background-color: #535353;
+    --tab-background-color: var(--white);
 }
 
 html {
