@@ -1,17 +1,16 @@
 /* -----------------------------------------------------------------
     - General Styles
 ----------------------------------------------------------------- */
-
 :root {
+    --white: #ffffff;
     --primary: #02a68e;
     --primary-color-soft: #d6392e33;
     --background-color: #d2d2d2;
     --text-color: #2d3845;
-    --box-background-color: #615a79;
-    --tab-background-color: #302C40;
-    --white: #ffffff;
+    --box-background-color: #535353;
+    --tab-background-color: var(--white);
+    
 }
-
 
 @media only screen and (max-width: 991px) {
     .nav-container {
