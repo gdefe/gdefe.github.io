@@ -19,8 +19,8 @@
     --primary: #02a68e;
     --primary-color: var(--primary);
     --primary-color-soft: #d6392e33;
-    --text-color: #44566C;
-    --text-color-light: #8697A8;
+    --text-color: #2d3845;
+    --text-color-light: #64717e;
     --text-color-on-primary: var(--white);
     --background-color: #d2d2d2;
     --tab-background-color: var(--white);
