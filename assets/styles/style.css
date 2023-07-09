@@ -19,10 +19,10 @@
     /* colors */
     --primary: #009a83;
     --primary-color: var(--primary);
-    --primary-color-soft: #d6392e33;
+    --primary-color-soft: #009a833f;
     --text-color: #2d3845;
     --text-color-light: #5c636a;
-    --text-color-on-primary: #2d3845;
+    --text-color-on-primary: var(--white);
     --background-color: #d2d2d2; 
     --tab-background-color: var(--white);
     --box-background-color: #e6e9e9;
