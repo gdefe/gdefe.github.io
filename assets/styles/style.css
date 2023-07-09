@@ -25,7 +25,7 @@
     --text-color-on-primary: var(--white);
     --background-color: #d2d2d2; 
     --tab-background-color: var(--white);
-    --box-background-color: #e6e9e9;
+    --box-background-color: #e7eaea;
 }
 
 html {
@@ -89,9 +89,6 @@ html.is-scroll-disabled body {
 /* -----------------------------------------------------------------
     - Icons
 ----------------------------------------------------------------- */
-.service-icon-box { margin-bottom: 10px; }
-
-.service-icon-box img { margin: auto; }
 
 .title-icon {
     color: var(--primary-color);
@@ -1230,7 +1227,7 @@ button:focus {
 
 .shadow {
     /*box-shadow: 0 2.5rem 3.125rem rgba(103, 118, 128, 0.1) !important;*/
-    box-shadow: 0px 40px 50px rgba(40, 37, 52, 0.75) !important;
+    box-shadow: 0px 40px 50px rgba(42, 39, 51, 0.75) !important;
 }
 
 .shadow::before {
