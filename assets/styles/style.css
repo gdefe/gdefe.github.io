@@ -20,12 +20,12 @@
     --primary: #009a83;
     --primary-color: var(--primary);
     --primary-color-soft: #d6392e33;
-    --text-color: #30373f;
+    --text-color: #2d3845;
     --text-color-light: #5c636a;
-    --text-color-on-primary: var(--white);
+    --text-color-on-primary: #2d3845;
     --background-color: #d2d2d2; 
     --tab-background-color: var(--white);
-    --box-background-color: #F5F8F9;
+    --box-background-color: #e6e9e9;
 }
 
 html {
