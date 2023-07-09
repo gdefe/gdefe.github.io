@@ -44,7 +44,7 @@ layout: page
                     </a>
                     <span class="gallery-grid__category">
                         {% for author in pub.authors %}
-                            {%assign giovanni = author | slice: 0, 12%}
+                            {% assign giovanni = author | slice: 0, 17%}
                             {% if giovanni == "Giovanni De Felice" %}<strong>{{ author }}</strong>{% else %}{{ author }}{% endif %}{% if author != pub.authors.last %},{% endif %}
                         {% endfor %}
                     </span>
