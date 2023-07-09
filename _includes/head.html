@@ -53,6 +53,11 @@
 
 	    darkTheme.disabled = currentTheme == "dark" ? false : true;
 	    localStorage.setItem("theme", currentTheme);
+
+        // Modify the code below to set the default theme as "light"
+        if (currentTheme == "light") {
+            darkTheme.disabled = true;
+        }
 	    </script>
 	{% endif %}
 </head>
