@@ -12,6 +12,7 @@
 }
 
 :root {
+    --white: #ffffff;
     /* fonts */
     --body-font: "Archivo", sans-serif;
     --heading-font: "Archivo", sans-serif;
@@ -19,10 +20,10 @@
     --primary: #009a83;
     --primary-color: var(--primary);
     --primary-color-soft: #d6392e33;
-    --text-color: #44566C;
-    --text-color-light: #8697A8;
+    --text-color: #30373f;
+    --text-color-light: #5c636a;
     --text-color-on-primary: var(--white);
-    --background-color: #F5F6F7;
+    --background-color: #d2d2d2; 
     --tab-background-color: var(--white);
     --box-background-color: #F5F8F9;
 }
