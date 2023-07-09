@@ -1608,7 +1608,7 @@ button:focus {
 }
 
 img.case-item__icon {
-    border-radius: 50%;
+    border-radius: 100%;
 }
 
 @media only screen and (max-width: 580px) {
