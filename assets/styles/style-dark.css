@@ -1,33 +1,17 @@
 /* -----------------------------------------------------------------
     - General Styles
 ----------------------------------------------------------------- */
-/*
+
 :root {
-    --primary: #ff994e;
-    --primary-color-soft: #ff994e33;
-    --background-color: #272333;
-    --text-color: #DEDDE0;
+    --primary: #02a68e;
+    --primary-color-soft: #d6392e33;
+    --background-color: #d2d2d2;
+    --text-color: #2d3845;
     --box-background-color: #615a79;
     --tab-background-color: #302C40;
     --white: #ffffff;
 }
-*/
-:root {
-    /* fonts */
-    --body-font: "Archivo", sans-serif;
-    --heading-font: "Archivo", sans-serif;
-    /* colors */
-    --white: #ffffff;
-    --primary: #02a68e;
-    --primary-color: var(--primary);
-    --primary-color-soft: #d6392e33;
-    --text-color: #2d3845;
-    --text-color-light: #64717e;
-    --text-color-on-primary: var(--white);
-    --background-color: #d2d2d2;
-    --tab-background-color: #535353;
-    --box-background-color: #535353;
-}
+
 
 @media only screen and (max-width: 991px) {
     .nav-container {
