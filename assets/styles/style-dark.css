@@ -192,10 +192,15 @@ select option,
 .box {
     background-color: var(--tab-background-color);
 }
-
+/*
 .box__second {
     background-color: #2C283A;
     box-shadow: unset;
+}*/
+.box__second {
+    background-color: var(--tab-background-color);
+    box-shadow: 0 0 10px #92929238;
+    border-radius: 15.3846153846px;
 }
 
 .box-inner {
