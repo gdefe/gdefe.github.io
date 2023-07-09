@@ -16,15 +16,15 @@
     --body-font: "Archivo", sans-serif;
     --heading-font: "Archivo", sans-serif;
     /* colors */
-    --primary: #02a68e;
+    --primary: #d6392e;
     --primary-color: var(--primary);
     --primary-color-soft: #d6392e33;
-    --text-color: #2d3845;
-    --text-color-light: #64717e;
-    --text-color-on-primary: #2d3845;
-    --background-color: #d2d2d2;
-    --box-background-color: #c9c9c9;
+    --text-color: #44566C;
+    --text-color-light: #8697A8;
+    --text-color-on-primary: var(--white);
+    --background-color: #F5F6F7;
     --tab-background-color: var(--white);
+    --box-background-color: #F5F8F9;
 }
 
 html {
