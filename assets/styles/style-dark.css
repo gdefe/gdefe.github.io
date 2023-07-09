@@ -1,7 +1,7 @@
 /* -----------------------------------------------------------------
     - General Styles
 ----------------------------------------------------------------- */
-/* 
+/*
 :root {
     --primary: #ff994e;
     --primary-color-soft: #ff994e33;
@@ -17,6 +17,7 @@
     --body-font: "Archivo", sans-serif;
     --heading-font: "Archivo", sans-serif;
     /* colors */
+    --white: #ffffff;
     --primary: #02a68e;
     --primary-color: var(--primary);
     --primary-color-soft: #d6392e33;
@@ -24,8 +25,8 @@
     --text-color-light: #64717e;
     --text-color-on-primary: var(--white);
     --background-color: #d2d2d2;
-    --tab-background-color: var(--white);
-    --box-background-color: #F5F8F9;
+    --tab-background-color: #535353;
+    --box-background-color: #535353;
 }
 
 @media only screen and (max-width: 991px) {
