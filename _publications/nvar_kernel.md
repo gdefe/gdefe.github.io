@@ -9,7 +9,7 @@ categories:
     - time-series
 link: 
 code: 
-venue: coming soon...
+venue: NeurIPS 2023
 thumbnail: 
 layout: abstract
 order: 4
