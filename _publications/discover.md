@@ -9,7 +9,7 @@ abstract: "Recent Machine Learning (ML) developments have opened new perspective
 categories:
     - materials-informatics
 link: https://chemrxiv.org/engage/chemrxiv/article-details/64d212414a3f7d0c0dced297
-code: 
+code: https://github.com/fedeotto/data-aggregation-mi
 venue: ChemRxiv
 thumbnail: data_aggr.png
 layout: abstract
