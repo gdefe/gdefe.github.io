@@ -11,8 +11,8 @@ categories:
     - spatio-temporal
 link: 
 code: 
-venue: ArXiv
-thumbnail: 
+venue: ICLR 2024
+thumbnail: world_website.png
 layout: abstract
 order: 7
 ---
