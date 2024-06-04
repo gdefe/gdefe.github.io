@@ -21,8 +21,8 @@
     {% endif %}
     <div class="publication-authors">
       {% for author in pub.authors %}
-        {%assign ivan = author | slice: 0, 12%}
-        {% if ivan == "Ivan Marisca" %}
+        {%assign gdefe = author | slice: 0, 12%}
+        {% if gdefe == "Giovanni De Felice" %}
           <strong>{{ author }}</strong>
         {% else %}
           {{ author }}
