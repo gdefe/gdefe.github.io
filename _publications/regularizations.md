@@ -1,5 +1,5 @@
 ---
-title: "On the Regularization of Learnable Embeddings for Time Series Processing"
+title: "On the Regularization of Learnable Embeddings for Time Series Forecasting"
 authors:
     - Luca Butera
     - Giovanni De Felice
