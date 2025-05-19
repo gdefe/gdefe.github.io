@@ -15,5 +15,5 @@ code:
 venue: AI4Mat NeurIPS 2023
 thumbnail: combnet.png
 layout: abstract
-order: 6
+order: 4
 ---

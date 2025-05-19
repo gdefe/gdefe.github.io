@@ -13,5 +13,5 @@ code: https://github.com/fedeotto/data-aggregation-mi
 venue: Digital Discovery
 thumbnail: data_aggr.png
 layout: abstract
-order: 5
+order: 3
 ---
