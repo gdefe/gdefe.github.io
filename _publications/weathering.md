@@ -9,7 +9,7 @@ authors:
     - Catherine Vincent Gauvin
 abstract: "We investigate the problem of predicting the expected lifetime of a material in different climatic conditions from a few observations in sparsely located testing facilities. We propose a Spatio-Temporal adaptation of Gaussian Process Regression that takes full advantage of high-quality satellite data by performing an interpolation directly in the space of climatological time-series.  We illustrate our approach by predicting gloss retention of industrial paint formulations. Furthermore, our model provides uncertainty that can guide decision-making and is applicable to a wide range of problems."
 categories:
-    - time series
+    - time-series
     - spatio-temporal
 link: https://openreview.net/forum?id=wHP9Y5T83A5
 code: 
