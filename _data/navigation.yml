@@ -1,8 +1,8 @@
 - title: About
   url: /index.html
 
-#- title: Resume
-#  url: /resume.html
+- title: Projects
+  url: /projects.html
 
 - title: Publications
   url: /publications.html
