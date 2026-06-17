@@ -10,7 +10,7 @@ categories:
     - time-series
 link: https://openreview.net/pdf?id=F5ALCh3GWG
 code: 
-venue: TMLR
+venue: TMLR 2025
 thumbnail: curves.png
 layout: abstract
 order: 8
