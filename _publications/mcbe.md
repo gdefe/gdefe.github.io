@@ -16,7 +16,7 @@ categories:
     - interpretability
 link: https://arxiv.org/abs/2602.02886
 code: 
-venue: ICML 2026
+venue: ICML 2026 (spotlight)
 thumbnail: moe.png
 fit: contain
 layout: abstract
